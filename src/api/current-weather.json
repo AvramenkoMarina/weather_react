@@ -1,0 +1,24 @@
+{
+	"lat": "50.45466N",
+	"lon": "30.5238E",
+	"elevation": 187,
+	"timezone": "Europe/Kiev",
+	"units": "metric",
+	"current": {
+		"icon": "overcast",
+		"icon_num": 7,
+		"summary": "Overcast",
+		"temperature": 1.8,
+		"feels_like": -3.0,
+		"wind_chill": -3.0,
+		"dew_point": 1.0,
+		"wind": { "speed": 4.7, "gusts": 8.5, "angle": 14, "dir": "NNE" },
+		"precipitation": { "total": 0.0, "type": "none" },
+		"cloud_cover": 100,
+		"ozone": 327.33,
+		"pressure": 1015,
+		"uv_index": 0.0,
+		"humidity": 0,
+		"visibility": 0.11
+	}
+}
