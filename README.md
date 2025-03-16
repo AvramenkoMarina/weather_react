@@ -4,7 +4,7 @@ This project is an online weather application that provides users with real-time
 
 # Demo
 
-https://avramenkomarina.github.io/weather-app/
+https://avramenkomarina.github.io/weather_react/
 
 # Technologies
 
